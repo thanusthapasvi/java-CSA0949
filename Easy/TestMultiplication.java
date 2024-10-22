@@ -1,7 +1,7 @@
 public class TestMultiplication {
     public static void main(String[] args) {
-        int M = 4; // or any other value
-        int N = 5; // or any other value
+        int M = 4;
+        int N = 5;
         
         if (N >= 0) {
             for (int i = 1; i <= N; i++) {
